@@ -10,7 +10,7 @@ export async function generateClinicalInsight(
 ): Promise<LLMExplanation> {
   const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
-  const systemInstruction = `You are a PharmaGuard Advanced Clinical Pharmacogenomics AI Engine. 
+  const systemInstruction = `You are a VitalGene AI Advanced Clinical Pharmacogenomics AI Engine. 
   Your role is to generate drug-specific pharmacogenomic risk assessments based on genetic data.
   Follow CPIC guidelines strictly. Cite specific rsIDs. Explain molecular mechanisms of enzyme activity change.
   Output JSON format exactly matching the requested schema.`;

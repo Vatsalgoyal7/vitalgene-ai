@@ -185,7 +185,7 @@ export default function App() {
           <ShieldCheck size={24} />
         </div>
         <div className="flex flex-col">
-          <span className="text-xl font-bold tracking-tight text-slate-900 uppercase">PHARMAGUARD <span className="text-blue-600">AI</span></span>
+          <span className="text-xl font-bold tracking-tight text-slate-900 uppercase">VITALGENE <span className="text-blue-600">AI</span></span>
           <div className="flex items-center gap-2">
             <span className="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-pulse"></span>
             <span className="text-[9px] font-bold text-slate-400 uppercase tracking-widest">Live Engine v1.0.0</span>
@@ -215,7 +215,7 @@ export default function App() {
           <div className="max-w-xs">
             <div className="flex items-center gap-3 mb-6">
               <ShieldCheck size={28} className="text-cyan-400" />
-              <span className="text-2xl font-bold tracking-tight uppercase">PharmaGuard <span className="text-cyan-400">AI</span></span>
+              <span className="text-2xl font-bold tracking-tight uppercase">VitalGene AI <span className="text-cyan-400">AI</span></span>
             </div>
             <p className="text-blue-200/50 text-xs leading-relaxed mb-6">
               Precision clinical decision support powered by generative intelligence. Developed with high-integrity genomic processing for modern medicine.
@@ -358,14 +358,14 @@ export default function App() {
             <div className="w-12 h-12 bg-blue-50 text-blue-600 rounded-2xl flex items-center justify-center"><BookOpen size={24}/></div>
             <h1 className="text-4xl font-extrabold text-slate-900 tracking-tight">System Documentation</h1>
           </div>
-          <p className="text-slate-500 text-lg leading-relaxed">Technical specifications and clinical guidelines for the PharmaGuard AI precision genomic pipeline.</p>
+          <p className="text-slate-500 text-lg leading-relaxed">Technical specifications and clinical guidelines for the VitalGene AI AI precision genomic pipeline.</p>
         </header>
 
         <div className="space-y-16">
           <section>
             <h2 className="text-xl font-bold text-slate-900 mb-6 flex items-center gap-3"><Server size={20} className="text-blue-500"/> Platform Overview</h2>
             <div className="prose prose-slate max-w-none text-slate-600 leading-relaxed">
-              <p>PharmaGuard AI is a clinical-grade pharmacogenomics decision support tool designed to analyze genetic variation and provide medication-specific risk assessments. The system integrates raw VCF parsing with CPIC-aligned clinical logic and LLM-powered explanation generation.</p>
+              <p>VitalGene AI AI is a clinical-grade pharmacogenomics decision support tool designed to analyze genetic variation and provide medication-specific risk assessments. The system integrates raw VCF parsing with CPIC-aligned clinical logic and LLM-powered explanation generation.</p>
             </div>
           </section>
 
@@ -395,7 +395,7 @@ export default function App() {
 
           <section>
             <h2 className="text-xl font-bold text-slate-900 mb-6 flex items-center gap-3"><Terminal size={20} className="text-blue-500"/> API Architecture</h2>
-            <p className="text-slate-600 mb-6">PharmaGuard operates a stateless internal engine optimized for high-throughput genomic parsing.</p>
+            <p className="text-slate-600 mb-6">VitalGene AI operates a stateless internal engine optimized for high-throughput genomic parsing.</p>
             <div className="bg-[#0f172a] p-8 rounded-3xl overflow-hidden shadow-2xl">
               <div className="flex items-center gap-2 mb-4 border-b border-white/10 pb-4">
                  <div className="w-2.5 h-2.5 rounded-full bg-rose-500"></div>
@@ -454,7 +454,7 @@ export default function App() {
           <header className="mb-12">
             <div className="w-16 h-16 bg-blue-50 text-blue-600 rounded-[2rem] flex items-center justify-center mb-6"><Lock size={32}/></div>
             <h1 className="text-3xl font-extrabold text-slate-900 mb-4 tracking-tight">Privacy & Data Handling</h1>
-            <p className="text-slate-500 font-medium">PharmaGuard is built with a security-first philosophy to ensure the confidentiality of patient genomic data.</p>
+            <p className="text-slate-500 font-medium">VitalGene AI is built with a security-first philosophy to ensure the confidentiality of patient genomic data.</p>
           </header>
 
           <div className="space-y-12">
@@ -473,7 +473,7 @@ export default function App() {
 
             <section>
               <h3 className="text-lg font-bold text-slate-900 mb-4">Third-Party Policy</h3>
-              <p className="text-slate-600 text-sm leading-relaxed mb-6">PharmaGuard AI does not sell, trade, or share genomic or pharmacological profiles with any third-party marketing or research organizations.</p>
+              <p className="text-slate-600 text-sm leading-relaxed mb-6">VitalGene AI AI does not sell, trade, or share genomic or pharmacological profiles with any third-party marketing or research organizations.</p>
               <div className="grid grid-cols-2 gap-4">
                  <div className="p-4 bg-slate-50 rounded-2xl">
                     <span className="text-[10px] font-bold text-slate-400 uppercase tracking-widest block mb-2">Encryption</span>
@@ -507,7 +507,7 @@ export default function App() {
           <header className="mb-12">
             <div className="w-16 h-16 bg-blue-50 text-blue-600 rounded-[2rem] flex items-center justify-center mb-6"><Scale size={32}/></div>
             <h1 className="text-3xl font-extrabold text-slate-900 mb-4 tracking-tight">Terms of Use</h1>
-            <p className="text-slate-500 font-medium">Legal and compliance documentation for the PharmaGuard AI platform.</p>
+            <p className="text-slate-500 font-medium">Legal and compliance documentation for the VitalGene AI AI platform.</p>
           </header>
 
           <div className="space-y-12">
@@ -546,7 +546,7 @@ export default function App() {
               <h3 className="text-lg font-bold text-slate-900 mb-4">4. No Liability Clause</h3>
               <p className="text-slate-600 text-sm leading-relaxed">
                 The developers are not liable for any medical, financial, or legal consequences resulting from the use of this platform. 
-                Users assume all responsibility for the interpretation and application of the diagnostic reports generated by PharmaGuard AI.
+                Users assume all responsibility for the interpretation and application of the diagnostic reports generated by VitalGene AI AI.
               </p>
             </section>
 

@@ -9,7 +9,7 @@ import { generateClinicalInsight } from './geminiService';
 import { saveAnalysesToHistory } from './dashboardStore';
 
 /**
- * PharmaGuard Advanced Clinical Pharmacogenomics AI Engine
+ * VitalGene AI Advanced Clinical Pharmacogenomics AI Engine
  * Logic focused on real-time VCF processing and independent drug-gene evaluation.
  */
 export async function processPGx(vcfData: string, drugInput: string): Promise<PGxReport[]> {

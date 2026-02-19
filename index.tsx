@@ -11,5 +11,5 @@ if (rootElement) {
     </React.StrictMode>
   );
 } else {
-  console.error("Could not find root element to mount PharmaGuard AI.");
+  console.error("Could not find root element to mount VitalGene AI AI.");
 }

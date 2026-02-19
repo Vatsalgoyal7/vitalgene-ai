@@ -1,6 +1,6 @@
-# PharmaGuard AI: Precision Pharmacogenomic Risk Predictor
+# VitalGene AI AI: Precision Pharmacogenomic Risk Predictor
 
-PharmaGuard AI is a professional-grade clinical decision support tool that analyzes genomic variation from VCF files to predict personalized medication risks. Built using CPIC-aligned logic and Gemini-powered clinical explanations, it provides actionable dosing guidance to prevent adverse drug reactions.
+VitalGene AI AI is a professional-grade clinical decision support tool that analyzes genomic variation from VCF files to predict personalized medication risks. Built using CPIC-aligned logic and Gemini-powered clinical explanations, it provides actionable dosing guidance to prevent adverse drug reactions.
 
 ## 🚀 Key Features
 - **VCF Parsing**: Direct processing of standard VCF (v4.2) genomic files.
@@ -36,5 +36,5 @@ For technical inquiries or enterprise integration:
 - **Open Source**: Licensed for clinical research and development.
 
 ---
-© 2024 PharmaGuard AI Systems | v1.0.0
+© 2024 VitalGene AI AI Systems | v1.0.0
 Developed with high-integrity genomic processing for modern medicine by Vatsal Goyal.
