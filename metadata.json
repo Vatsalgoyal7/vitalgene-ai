@@ -1,0 +1,5 @@
+{
+  "name": "AI Pharmacogenomic Risk Predictor 3",
+  "description": "A professional-grade pharmacogenomics tool that parses VCF files and predicts drug risks using CPIC-aligned logic and Gemini-powered clinical explanations.",
+  "requestFramePermissions": []
+}
