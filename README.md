@@ -16,15 +16,15 @@ VitalGene AI AI is a professional-grade clinical decision support tool that anal
 - **Deployment**: Vercel (Frontend)
 
 ## 👨‍💻 Developer Information
-**Developed by Vatsal Goyal**
+**Developed by D'divastra**
 - **GitHub**: [https://github.com/Vatsalgoyal7](https://github.com/Vatsalgoyal7)
 - **Contact Email**: [vatsalgoyal71@gmail.com](mailto:vatsalgoyal71@gmail.com)
 
 ## 🔗 Project Links
-- **Live Deployment**: [Placeholder for Deployment URL]
+- **Live Deployment**: [https://vitalgene-ai.vercel.app/]
 - **LinkedIn Demo Video**: [Placeholder for LinkedIn Post/Video]
 - **GitHub Repository**: [https://github.com/Vatsalgoyal7](https://github.com/Vatsalgoyal7)
-
+  
 ## 📋 Contact Information
 For technical inquiries or enterprise integration:
 - **Email**: vatsalgoyal71@gmail.com
