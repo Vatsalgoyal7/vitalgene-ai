@@ -16,7 +16,7 @@ VitalGene AI AI is a professional-grade clinical decision support tool that anal
 - **Deployment**: Vercel (Frontend)
 
 ## 👨‍💻 Developer Information
-**Developed by D'divastra**
+**Developed by Team D'divastra**
 - **GitHub**: [https://github.com/Vatsalgoyal7](https://github.com/Vatsalgoyal7)
 - **Contact Email**: [vatsalgoyal71@gmail.com](mailto:vatsalgoyal71@gmail.com)
 
